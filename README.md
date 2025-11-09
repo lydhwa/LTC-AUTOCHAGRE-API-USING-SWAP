@@ -23,9 +23,5 @@ curl -X POST https://urdomain.example/api/v1/ltc/get \
 - You need to get an API key from changenow.io
 
 ## ✅ Contact
-
-- https://partynextdoor.xyz/
-
 - support@partynextdoor.xyz
 
-- whitehole001 (discord)
